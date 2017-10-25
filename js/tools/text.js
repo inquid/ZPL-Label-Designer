@@ -15,7 +15,7 @@ com.logicpartners.designerTools.text = function() {
 		this.x = x;
 		this.y = y;
 		this.fontSize = 36;
-		this.fontType = "Arial";
+		this.fontType = "Serif";
 		this.width = 100;
 		this.height = 0;
 		
